@@ -1,0 +1,22 @@
+v = int(input('Digite um valor inteiro: '))
+a = v * 1
+b = v * 2
+c = v * 3
+d = v * 4
+e = v * 5
+f = v * 6
+g = v * 7
+h = v * 8
+i = v * 9
+j = v * 10
+print(f'A tabuada do {v} é: ')
+print(f'{v} X 1 = {a}')
+print(f'{v} X 2 = {b}')
+print(f'{v} X 3 = {c}')
+print(f'{v} X 4 = {d}')
+print(f'{v} X 5 = {e}')
+print(f'{v} X 6 = {f}')
+print(f'{v} X 7 = {g}')
+print(f'{v} X 8 = {h}')
+print(f'{v} X 9 = {i}')
+print(f'{v} X 10 = {j}')
