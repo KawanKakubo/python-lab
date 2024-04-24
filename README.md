@@ -1,2 +1,2 @@
-# exercicios_python
- Exercícios realizados no Curso de Python ministrado pelo Professor Gustavo Guanabara.
+# PythonLab
+ Ambiente de aprendizado e experimentação com a linguagem Python.
