@@ -12,4 +12,3 @@ if jog.strip() == '':
     print(ficha(golsfeitos=gols))
 else:
     print(ficha(jog, gols))
-
