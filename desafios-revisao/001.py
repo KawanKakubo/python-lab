@@ -1,0 +1,10 @@
+nome = str('Luiz')
+idade = int(18)
+altura = float(1.8)
+peso = float(80)
+ano_atual = int(2024)
+ano_nascimento = ano_atual - idade
+imc = peso / ( altura * altura )
+print(f'{nome} tem {idade} anos, {altura} metros de altura e pesa {peso}kg.')
+print(f'O IMC de {nome} é {imc:.2f}.')
+print(f'{nome} nasceu em {ano_nascimento}.')
